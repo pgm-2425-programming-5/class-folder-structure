@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <main>
-        Hello
+        Hello <br />
         <Button>Click me</Button>
       </main>
       <footer>
